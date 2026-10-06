@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\OOP\\OOP_de3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA657E7-F37B-41F4-8C37-131310ABF8AE}|OOP_de3\\OOP_de3.csproj|a:\\oop\\oop_de3\\oop_de3\\retailmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAA657E7-F37B-41F4-8C37-131310ABF8AE}|OOP_de3\\OOP_de3.csproj|solutionrelative:oop_de3\\retailmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA657E7-F37B-41F4-8C37-131310ABF8AE}|OOP_de3\\OOP_de3.csproj|A:\\OOP\\OOP_de3\\oop_de3\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAA657E7-F37B-41F4-8C37-131310ABF8AE}|OOP_de3\\OOP_de3.csproj|solutionrelative:oop_de3\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA657E7-F37B-41F4-8C37-131310ABF8AE}|OOP_de3\\OOP_de3.csproj|A:\\OOP\\OOP_de3\\oop_de3\\salerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAA657E7-F37B-41F4-8C37-131310ABF8AE}|OOP_de3\\OOP_de3.csproj|solutionrelative:oop_de3\\salerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA657E7-F37B-41F4-8C37-131310ABF8AE}|OOP_de3\\OOP_de3.csproj|A:\\OOP\\OOP_de3\\oop_de3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAA657E7-F37B-41F4-8C37-131310ABF8AE}|OOP_de3\\OOP_de3.csproj|solutionrelative:oop_de3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RetailManager.cs",
+              "DocumentMoniker": "A:\\OOP\\OOP_de3\\OOP_de3\\RetailManager.cs",
+              "RelativeDocumentMoniker": "OOP_de3\\RetailManager.cs",
+              "ToolTip": "A:\\OOP\\OOP_de3\\OOP_de3\\RetailManager.cs",
+              "RelativeToolTip": "OOP_de3\\RetailManager.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAcwIQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T10:47:28.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaleRecord.cs",
+              "DocumentMoniker": "A:\\OOP\\OOP_de3\\OOP_de3\\SaleRecord.cs",
+              "RelativeDocumentMoniker": "OOP_de3\\SaleRecord.cs",
+              "ToolTip": "A:\\OOP\\OOP_de3\\OOP_de3\\SaleRecord.cs",
+              "RelativeToolTip": "OOP_de3\\SaleRecord.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T10:46:01.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Item.cs",
+              "DocumentMoniker": "A:\\OOP\\OOP_de3\\OOP_de3\\Item.cs",
+              "RelativeDocumentMoniker": "OOP_de3\\Item.cs",
+              "ToolTip": "A:\\OOP\\OOP_de3\\OOP_de3\\Item.cs",
+              "RelativeToolTip": "OOP_de3\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T10:42:58.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\OOP\\OOP_de3\\OOP_de3\\Program.cs",
+              "RelativeDocumentMoniker": "OOP_de3\\Program.cs",
+              "ToolTip": "A:\\OOP\\OOP_de3\\OOP_de3\\Program.cs",
+              "RelativeToolTip": "OOP_de3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T10:42:28.577Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

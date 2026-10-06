@@ -1,0 +1,7 @@
+D:\thc4\thc4\bin\Debug\thc4.exe.config
+D:\thc4\thc4\bin\Debug\thc4.exe
+D:\thc4\thc4\bin\Debug\thc4.pdb
+D:\thc4\thc4\obj\Debug\thc4.csproj.AssemblyReference.cache
+D:\thc4\thc4\obj\Debug\thc4.csproj.CoreCompileInputs.cache
+D:\thc4\thc4\obj\Debug\thc4.exe
+D:\thc4\thc4\obj\Debug\thc4.pdb

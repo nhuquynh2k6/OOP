@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\OOP\\thc4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{774E0895-8AD4-4058-9BB5-19DD16761490}|thc4\\thc4.csproj|a:\\oop\\thc4\\thc4\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{774E0895-8AD4-4058-9BB5-19DD16761490}|thc4\\thc4.csproj|solutionrelative:thc4\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{774E0895-8AD4-4058-9BB5-19DD16761490}|thc4\\thc4.csproj|A:\\OOP\\thc4\\thc4\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{774E0895-8AD4-4058-9BB5-19DD16761490}|thc4\\thc4.csproj|solutionrelative:thc4\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{774E0895-8AD4-4058-9BB5-19DD16761490}|thc4\\thc4.csproj|A:\\OOP\\thc4\\thc4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{774E0895-8AD4-4058-9BB5-19DD16761490}|thc4\\thc4.csproj|solutionrelative:thc4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sach.cs",
+              "DocumentMoniker": "A:\\OOP\\thc4\\thc4\\Sach.cs",
+              "RelativeDocumentMoniker": "thc4\\Sach.cs",
+              "ToolTip": "A:\\OOP\\thc4\\thc4\\Sach.cs",
+              "RelativeToolTip": "thc4\\Sach.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T13:19:57.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaiKhoan.cs",
+              "DocumentMoniker": "A:\\OOP\\thc4\\thc4\\TaiKhoan.cs",
+              "RelativeDocumentMoniker": "thc4\\TaiKhoan.cs",
+              "ToolTip": "A:\\OOP\\thc4\\thc4\\TaiKhoan.cs",
+              "RelativeToolTip": "thc4\\TaiKhoan.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T12:11:23.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\OOP\\thc4\\thc4\\Program.cs",
+              "RelativeDocumentMoniker": "thc4\\Program.cs",
+              "ToolTip": "A:\\OOP\\thc4\\thc4\\Program.cs",
+              "RelativeToolTip": "thc4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T12:09:56.073Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

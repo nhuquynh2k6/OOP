@@ -1,0 +1,7 @@
+D:\OOP_THB1\OOP_THB1\bin\Debug\OOP_THB1.exe.config
+D:\OOP_THB1\OOP_THB1\bin\Debug\OOP_THB1.exe
+D:\OOP_THB1\OOP_THB1\bin\Debug\OOP_THB1.pdb
+D:\OOP_THB1\OOP_THB1\obj\Debug\OOP_THB1.csproj.AssemblyReference.cache
+D:\OOP_THB1\OOP_THB1\obj\Debug\OOP_THB1.csproj.CoreCompileInputs.cache
+D:\OOP_THB1\OOP_THB1\obj\Debug\OOP_THB1.exe
+D:\OOP_THB1\OOP_THB1\obj\Debug\OOP_THB1.pdb

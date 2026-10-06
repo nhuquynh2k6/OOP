@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\OOP\\OOP_de1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB76962-AA8C-4F00-BC5E-667D783EC438}|OOP_de1\\OOP_de1.csproj|a:\\oop\\oop_de1\\oop_de1\\librarymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB76962-AA8C-4F00-BC5E-667D783EC438}|OOP_de1\\OOP_de1.csproj|solutionrelative:oop_de1\\librarymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB76962-AA8C-4F00-BC5E-667D783EC438}|OOP_de1\\OOP_de1.csproj|A:\\OOP\\OOP_de1\\oop_de1\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB76962-AA8C-4F00-BC5E-667D783EC438}|OOP_de1\\OOP_de1.csproj|solutionrelative:oop_de1\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB76962-AA8C-4F00-BC5E-667D783EC438}|OOP_de1\\OOP_de1.csproj|A:\\OOP\\OOP_de1\\oop_de1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB76962-AA8C-4F00-BC5E-667D783EC438}|OOP_de1\\OOP_de1.csproj|solutionrelative:oop_de1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibraryItem.cs",
+              "DocumentMoniker": "A:\\OOP\\OOP_de1\\OOP_de1\\LibraryItem.cs",
+              "RelativeDocumentMoniker": "OOP_de1\\LibraryItem.cs",
+              "ToolTip": "A:\\OOP\\OOP_de1\\OOP_de1\\LibraryItem.cs",
+              "RelativeToolTip": "OOP_de1\\LibraryItem.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T11:57:10.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryManager.cs",
+              "DocumentMoniker": "A:\\OOP\\OOP_de1\\OOP_de1\\LibraryManager.cs",
+              "RelativeDocumentMoniker": "OOP_de1\\LibraryManager.cs",
+              "ToolTip": "A:\\OOP\\OOP_de1\\OOP_de1\\LibraryManager.cs",
+              "RelativeToolTip": "OOP_de1\\LibraryManager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwKgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T11:59:12.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\OOP\\OOP_de1\\OOP_de1\\Program.cs",
+              "RelativeDocumentMoniker": "OOP_de1\\Program.cs",
+              "ToolTip": "A:\\OOP\\OOP_de1\\OOP_de1\\Program.cs",
+              "RelativeToolTip": "OOP_de1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T11:36:56.245Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
